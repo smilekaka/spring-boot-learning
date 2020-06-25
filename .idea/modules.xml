@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-learning/springboot-mybatis-learning.iml" filepath="$PROJECT_DIR$/springboot-mybatis-learning/springboot-mybatis-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis-learning/springboot-redis-learning.iml" filepath="$PROJECT_DIR$/springboot-redis-learning/springboot-redis-learning.iml" />
+    </modules>
+  </component>
+</project>
